@@ -1,5 +1,21 @@
+# Node dependencies
 node_modules/
+
+# Backend environment variables
+backend/.env
 .env
+
+# React build files
 frontend/build/
+
+# Logs
 npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
 .DS_Store
+Thumbs.db
+
+# Optional - if any
+coverage/
